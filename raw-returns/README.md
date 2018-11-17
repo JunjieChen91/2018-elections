@@ -15,6 +15,7 @@ Results posted in MEDSL/2018-elections/raw-results
 * Unofficial Results URL: https://results.arizona.vote/#/featured/4/0
 * county-level
 * Scraper available 
+* Updated on November 17, 2018
 
 ### Arkansas (AR)
 * Unofficial Results URL: http://results.enr.clarityelections.com/AR/92174/Web02-state.216038/
