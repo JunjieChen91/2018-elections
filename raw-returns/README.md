@@ -53,6 +53,7 @@ Results posted in MEDSL/2018-elections/raw-results
 ### Georgia (GA)
 * Unofficial Results URL: https://results.enr.clarityelections.com/GA/91639/Web02-state.216038/
 * County-level results 
+* Updated on November 18, 2018
 
 ### Hawaii (HI)
 * Unofficial Results URL: https://elections.hawaii.gov/wp-content/results/media.txt
@@ -171,6 +172,7 @@ Unofficial Results URL: https://electionresults.sos.ne.gov/
 * Unofficial Results URL: https://www.electionreturns.pa.gov/
 * County-level results
 * Other breakdowns available. 
+* Updated on November 19, 2018.
 
 ### Rhode Island (RI)
 Unofficial Results URL: https://www.ri.gov/election/results/2018/general_election/
