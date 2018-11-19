@@ -61,8 +61,10 @@ Results posted in MEDSL/2018-elections/raw-results
 * Updated on November 18, 2018
 
 ### Hawaii (HI)
-* Unofficial Results URL: https://elections.hawaii.gov/wp-content/results/media.txt
-* Precinct-level results
+* Final report of result summaries URL: https://elections.hawaii.gov/election-results/
+* County-level results
+* Latest pdated November 15, 2018 5:30 PM
+* Uploaded on November 19, 2018
 
 ### Idaho (ID)
 * Unofficial Results URL: https://sos.idaho.gov/elect/results/2018/General/ENR/xml_access.html
