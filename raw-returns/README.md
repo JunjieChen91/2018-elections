@@ -22,6 +22,7 @@ Results posted in MEDSL/2018-elections/raw-results
 ### Arkansas (AR)
 * Unofficial Results URL: http://results.enr.clarityelections.com/AR/92174/Web02-state.216038/
 * county-level
+* Updated on November 19, 2018
 
 ### California (CA)
 * Unofficial Results URL: https://vote.sos.ca.gov/
