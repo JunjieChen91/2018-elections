@@ -1,0 +1,185 @@
+County,Race,Candidate,Party,Votes,PercentageOfTotalVotes,JurisdictionName
+Adams,Senate,Maria Cantwell,DEM,1355,32.1624,Federal
+Adams,Senate,Susan Hutchison,REP,2858,67.8376,Federal
+Adams,WA-04,Dan Newhouse,REP,3105,73.8407,Congressional
+Adams,WA-04,Christine Brown,DEM,1100,26.1593,Congressional
+Asotin,Senate,Maria Cantwell,DEM,3772,41.8646,Federal
+Asotin,Senate,Susan Hutchison,REP,5238,58.1354,Federal
+Asotin,WA-05,Cathy McMorris Rodgers,REP,5468,60.7556,Congressional
+Asotin,WA-05,Lisa Brown,DEM,3532,39.2444,Congressional
+Benton,Senate,Maria Cantwell,DEM,27116,37.1849,Federal
+Benton,Senate,Susan Hutchison,REP,45806,62.8151,Federal
+Benton,WA-04,Dan Newhouse,REP,45483,62.5273,Congressional
+Benton,WA-04,Christine Brown,DEM,27258,37.4727,Congressional
+Chelan,Senate,Maria Cantwell,DEM,14552,43.8895,Federal
+Chelan,Senate,Susan Hutchison,REP,18604,56.1105,Federal
+Chelan,WA-08,Dino Rossi,REP,17706,54.6701,Congressional
+Chelan,WA-08,Kim Schrier,DEM,14681,45.3299,Congressional
+Clallam,Senate,Maria Cantwell,DEM,19945,50.6321,Federal
+Clallam,Senate,Susan Hutchison,REP,19447,49.3679,Federal
+Clallam,WA-06,Derek Kilmer,DEM,22539,57.7361,Congressional
+Clallam,WA-06,Douglas Dightman,REP,16499,42.2639,Congressional
+Clark,Senate,Maria Cantwell,DEM,102197,52.9425,Federal
+Clark,Senate,Susan Hutchison,REP,90837,47.0575,Federal
+Clark,WA-03,Jaime Herrera Beutler,REP,94583,48.8844,Congressional
+Clark,WA-03,Carolyn Long,DEM,98900,51.1156,Congressional
+Columbia,Senate,Maria Cantwell,DEM,659,32.9335,Federal
+Columbia,Senate,Susan Hutchison,REP,1342,67.0665,Federal
+Columbia,WA-05,Cathy McMorris Rodgers,REP,1431,71.3716,Congressional
+Columbia,WA-05,Lisa Brown,DEM,574,28.6284,Congressional
+Cowlitz,Senate,Maria Cantwell,DEM,20425,46.2931,Federal
+Cowlitz,Senate,Susan Hutchison,REP,23696,53.7069,Federal
+Cowlitz,WA-03,Jaime Herrera Beutler,REP,24846,56.1314,Congressional
+Cowlitz,WA-03,Carolyn Long,DEM,19418,43.8686,Congressional
+Douglas,Senate,Maria Cantwell,DEM,5333,36.1437,Federal
+Douglas,Senate,Susan Hutchison,REP,9422,63.8563,Federal
+Douglas,WA-04,Dan Newhouse,REP,5775,69.4361,Congressional
+Douglas,WA-04,Christine Brown,DEM,2542,30.5639,Congressional
+Douglas,WA-08,Dino Rossi,REP,3766,59.3351,Congressional
+Douglas,WA-08,Kim Schrier,DEM,2581,40.6649,Congressional
+Ferry,Senate,Maria Cantwell,DEM,1308,38.0233,Federal
+Ferry,Senate,Susan Hutchison,REP,2132,61.9767,Federal
+Ferry,WA-05,Cathy McMorris Rodgers,REP,2246,64.9884,Congressional
+Ferry,WA-05,Lisa Brown,DEM,1210,35.0116,Congressional
+Franklin,Senate,Maria Cantwell,DEM,8698,39.9082,Federal
+Franklin,Senate,Susan Hutchison,REP,13097,60.0918,Federal
+Franklin,WA-04,Dan Newhouse,REP,13127,60.4012,Congressional
+Franklin,WA-04,Christine Brown,DEM,8606,39.5988,Congressional
+Garfield,Senate,Maria Cantwell,DEM,441,33.5616,Federal
+Garfield,Senate,Susan Hutchison,REP,873,66.4384,Federal
+Garfield,WA-05,Cathy McMorris Rodgers,REP,1002,75.2252,Congressional
+Garfield,WA-05,Lisa Brown,DEM,330,24.7748,Congressional
+Grant,Senate,Maria Cantwell,DEM,8098,30.7255,Federal
+Grant,Senate,Susan Hutchison,REP,18258,69.2745,Federal
+Grant,WA-04,Dan Newhouse,REP,19120,72.802,Congressional
+Grant,WA-04,Christine Brown,DEM,7143,27.198,Congressional
+Grays Harbor,Senate,Maria Cantwell,DEM,13470,47.8049,Federal
+Grays Harbor,Senate,Susan Hutchison,REP,14707,52.1951,Federal
+Grays Harbor,WA-06,Derek Kilmer,DEM,15384,55.122,Congressional
+Grays Harbor,WA-06,Douglas Dightman,REP,12525,44.878,Congressional
+Island,Senate,Maria Cantwell,DEM,22232,53.1472,Federal
+Island,Senate,Susan Hutchison,REP,19599,46.8528,Federal
+Island,WA-02,Rick Larsen,DEM,26532,67.8811,Congressional
+Island,WA-02,Brian Luke,LIB,12554,32.1189,Congressional
+Jefferson,Senate,Maria Cantwell,DEM,14165,68.7421,Federal
+Jefferson,Senate,Susan Hutchison,REP,6441,31.2579,Federal
+Jefferson,WA-06,Derek Kilmer,DEM,14902,72.8918,Congressional
+Jefferson,WA-06,Douglas Dightman,REP,5542,27.1082,Congressional
+King,Senate,Maria Cantwell,DEM,706627,74.1364,Federal
+King,Senate,Susan Hutchison,REP,246517,25.8636,Federal
+King,WA-01,Suzan DelBene,DEM,92995,69.4366,Congressional
+King,WA-01,Jeffrey Beeler,REP,40933,30.5634,Congressional
+King,WA-07,Pramila Jayapal,DEM,311345,84.734,Congressional
+King,WA-07,Craig Keller,REP,56093,15.266,Congressional
+King,WA-08,Dino Rossi,REP,77172,41.9488,Congressional
+King,WA-08,Kim Schrier,DEM,106795,58.0512,Congressional
+King,WA-09,Adam Smith,DEM,156929,67.737,Congressional
+King,WA-09,Sarah Smith,DEM,74745,32.263,Congressional
+Kitsap,Senate,Maria Cantwell,DEM,67670,56.467,Federal
+Kitsap,Senate,Susan Hutchison,REP,52170,43.533,Federal
+Kitsap,WA-06,Derek Kilmer,DEM,76564,64.3006,Congressional
+Kitsap,WA-06,Douglas Dightman,REP,42508,35.6994,Congressional
+Kittitas,Senate,Maria Cantwell,DEM,8241,43.0137,Federal
+Kittitas,Senate,Susan Hutchison,REP,10918,56.9863,Federal
+Kittitas,WA-08,Dino Rossi,REP,10384,54.6411,Congressional
+Kittitas,WA-08,Kim Schrier,DEM,8620,45.3589,Congressional
+Klickitat,Senate,Maria Cantwell,DEM,4624,45.5029,Federal
+Klickitat,Senate,Susan Hutchison,REP,5538,54.4971,Federal
+Klickitat,WA-03,Jaime Herrera Beutler,REP,5688,55.6883,Congressional
+Klickitat,WA-03,Carolyn Long,DEM,4526,44.3117,Congressional
+Lewis,Senate,Maria Cantwell,DEM,10931,32.5851,Federal
+Lewis,Senate,Susan Hutchison,REP,22615,67.4149,Federal
+Lewis,WA-03,Jaime Herrera Beutler,REP,22689,67.7466,Congressional
+Lewis,WA-03,Carolyn Long,DEM,10802,32.2534,Congressional
+Lincoln,Senate,Maria Cantwell,DEM,1580,28.6699,Federal
+Lincoln,Senate,Susan Hutchison,REP,3931,71.3301,Federal
+Lincoln,WA-05,Cathy McMorris Rodgers,REP,4171,75.685,Congressional
+Lincoln,WA-05,Lisa Brown,DEM,1340,24.315,Congressional
+Mason,Senate,Maria Cantwell,DEM,13183,47.8113,Federal
+Mason,Senate,Susan Hutchison,REP,14390,52.1887,Federal
+Mason,WA-06,Derek Kilmer,DEM,11239,52.7653,Congressional
+Mason,WA-06,Douglas Dightman,REP,10061,47.2347,Congressional
+Mason,WA-10,Denny Heck,DEM,3557,58.5225,Congressional
+Mason,WA-10,Joseph Brumbles ,REP,2521,41.4775,Congressional
+Okanogan,Senate,Maria Cantwell,DEM,7194,43.4289,Federal
+Okanogan,Senate,Susan Hutchison,REP,9371,56.5711,Federal
+Okanogan,WA-04,Dan Newhouse,REP,10042,60.6328,Congressional
+Okanogan,WA-04,Christine Brown,DEM,6520,39.3672,Congressional
+Pacific,Senate,Maria Cantwell,DEM,5501,50.8928,Federal
+Pacific,Senate,Susan Hutchison,REP,5308,49.1072,Federal
+Pacific,WA-03,Jaime Herrera Beutler,REP,5431,50.5538,Congressional
+Pacific,WA-03,Carolyn Long,DEM,5312,49.4462,Congressional
+Pend Oreille,Senate,Maria Cantwell,DEM,2448,36.1382,Federal
+Pend Oreille,Senate,Susan Hutchison,REP,4326,63.8618,Federal
+Pend Oreille,WA-05,Cathy McMorris Rodgers,REP,4441,65.6661,Congressional
+Pend Oreille,WA-05,Lisa Brown,DEM,2322,34.3339,Congressional
+Pierce,Senate,Maria Cantwell,DEM,172237,53.3336,Federal
+Pierce,Senate,Susan Hutchison,REP,150706,46.6664,Federal
+Pierce,WA-06,Derek Kilmer,DEM,64540,69.0504,Congressional
+Pierce,WA-06,Douglas Dightman,REP,28928,30.9496,Congressional
+Pierce,WA-08,Dino Rossi,REP,39206,56.2214,Congressional
+Pierce,WA-08,Kim Schrier,DEM,30529,43.7786,Congressional
+Pierce,WA-09,Adam Smith,DEM,5941,73.1831,Congressional
+Pierce,WA-09,Sarah Smith,DEM,2177,26.8169,Congressional
+Pierce,WA-10,Denny Heck,DEM,85927,58.9619,Congressional
+Pierce,WA-10,Joseph Brumbles ,REP,59806,41.0381,Congressional
+San Juan,Senate,Maria Cantwell,DEM,7916,72.6305,Federal
+San Juan,Senate,Susan Hutchison,REP,2983,27.3695,Federal
+San Juan,WA-02,Rick Larsen,DEM,8034,76.9983,Congressional
+San Juan,WA-02,Brian Luke,LIB,2400,23.0017,Congressional
+Skagit,Senate,Maria Cantwell,DEM,27250,51.3841,Federal
+Skagit,Senate,Susan Hutchison,REP,25782,48.6159,Federal
+Skagit,WA-01,Suzan DelBene,DEM,10705,53.9811,Congressional
+Skagit,WA-01,Jeffrey Beeler,REP,9126,46.0189,Congressional
+Skagit,WA-02,Rick Larsen,DEM,20392,66.8568,Congressional
+Skagit,WA-02,Brian Luke,LIB,10109,33.1432,Congressional
+Skamania,Senate,Maria Cantwell,DEM,2608,47.6695,Federal
+Skamania,Senate,Susan Hutchison,REP,2863,52.3305,Federal
+Skamania,WA-03,Jaime Herrera Beutler,REP,3007,54.9023,Congressional
+Skamania,WA-03,Carolyn Long,DEM,2470,45.0977,Congressional
+Snohomish,Senate,Maria Cantwell,DEM,183513,57.3921,Federal
+Snohomish,Senate,Susan Hutchison,REP,136240,42.6079,Federal
+Snohomish,WA-01,Suzan DelBene,DEM,67771,54.9996,Congressional
+Snohomish,WA-01,Jeffrey Beeler,REP,55450,45.0004,Congressional
+Snohomish,WA-02,Rick Larsen,DEM,111574,69.3437,Congressional
+Snohomish,WA-02,Brian Luke,LIB,49326,30.6563,Congressional
+Snohomish,WA-07,Pramila Jayapal,DEM,17481,66.9334,Congressional
+Snohomish,WA-07,Craig Keller,REP,8636,33.0666,Congressional
+Spokane,Senate,Maria Cantwell,DEM,106538,49.1432,Federal
+Spokane,Senate,Susan Hutchison,REP,110253,50.8568,Federal
+Spokane,WA-05,Cathy McMorris Rodgers,REP,114282,52.4817,Congressional
+Spokane,WA-05,Lisa Brown,DEM,103474,47.5183,Congressional
+Stevens,Senate,Maria Cantwell,DEM,7133,32.1133,Federal
+Stevens,Senate,Susan Hutchison,REP,15079,67.8867,Federal
+Stevens,WA-05,Cathy McMorris Rodgers,REP,15372,69.2713,Congressional
+Stevens,WA-05,Lisa Brown,DEM,6819,30.7287,Congressional
+Thurston,Senate,Maria Cantwell,DEM,72254,58.5228,Federal
+Thurston,Senate,Susan Hutchison,REP,51209,41.4772,Federal
+Thurston,WA-03,Jaime Herrera Beutler,REP,3202,61.4705,Congressional
+Thurston,WA-03,Carolyn Long,DEM,2007,38.5295,Congressional
+Thurston,WA-10,Denny Heck,DEM,75430,64.9464,Congressional
+Thurston,WA-10,Joseph Brumbles ,REP,40712,35.0536,Congressional
+Wahkiakum,Senate,Maria Cantwell,DEM,1075,44.5135,Federal
+Wahkiakum,Senate,Susan Hutchison,REP,1340,55.4865,Federal
+Wahkiakum,WA-03,Jaime Herrera Beutler,REP,1413,58.1481,Congressional
+Wahkiakum,WA-03,Carolyn Long,DEM,1017,41.8519,Congressional
+Walla Walla,Senate,Maria Cantwell,DEM,11096,45.9176,Federal
+Walla Walla,Senate,Susan Hutchison,REP,13069,54.0824,Federal
+Walla Walla,WA-04,Dan Newhouse,REP,1471,74.6322,Congressional
+Walla Walla,WA-04,Christine Brown,DEM,500,25.3678,Congressional
+Walla Walla,WA-05,Cathy McMorris Rodgers,REP,12070,54.3229,Congressional
+Walla Walla,WA-05,Lisa Brown,DEM,10149,45.6771,Congressional
+Whatcom,Senate,Maria Cantwell,DEM,64726,59.75,Federal
+Whatcom,Senate,Susan Hutchison,REP,43602,40.25,Federal
+Whatcom,WA-01,Suzan DelBene,DEM,24800,45.7227,Congressional
+Whatcom,WA-01,Jeffrey Beeler,REP,29440,54.2773,Congressional
+Whatcom,WA-02,Rick Larsen,DEM,42209,81.6216,Congressional
+Whatcom,WA-02,Brian Luke,LIB,9504,18.3784,Congressional
+Whitman,Senate,Maria Cantwell,DEM,9107,54.1503,Federal
+Whitman,Senate,Susan Hutchison,REP,7711,45.8497,Federal
+Whitman,WA-05,Cathy McMorris Rodgers,REP,8122,48.2218,Congressional
+Whitman,WA-05,Lisa Brown,DEM,8721,51.7782,Congressional
+Yakima,Senate,Maria Cantwell,DEM,28218,41.413,Federal
+Yakima,Senate,Susan Hutchison,REP,39920,58.587,Federal
+Yakima,WA-04,Dan Newhouse,REP,40734,59.7658,Congressional
+Yakima,WA-04,Christine Brown,DEM,27422,40.2342,Congressional
