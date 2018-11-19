@@ -4,6 +4,7 @@ Results posted in MEDSL/2018-elections/raw-results
 
 ### Alabama (AL)
 * results unavailable
+* Updated on November 18, 2018
 * Alabama removed results by 9:10 AM EST 11/7/2018
 * Unofficial Results URL: http://www2.alabamavotes.gov/electionnight/statewideresultsbycontest.aspx?ecode=1001030
 
