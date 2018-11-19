@@ -56,7 +56,7 @@ Results posted in MEDSL/2018-elections/raw-results
 * Updated on November 19, 2018 by JChen.
 
 ### Georgia (GA)
-* Unofficial Results URL: https://results.enr.clarityelections.com/GA/91639/Web02-state.216038/
+* Official Results URL: https://results.enr.clarityelections.com/GA/91639/Web02-state.216038/
 * County-level results 
 * Updated on November 18, 2018
 
