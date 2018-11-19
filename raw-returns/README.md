@@ -48,6 +48,7 @@ Results posted in MEDSL/2018-elections/raw-results
 ### Florida (FL)
 * Unofficial Results URL: https://floridaelectionwatch.gov/  
 * County-level results
+* Updated on November 19, 2018 by JChen.
 
 ### Georgia (GA)
 * Unofficial Results URL: https://results.enr.clarityelections.com/GA/91639/Web02-state.216038/
