@@ -11,6 +11,7 @@ Results posted in MEDSL/2018-elections/raw-results
 ### Alaska (AK)
 * Unofficial Results URL:  http://results.elections.alaska.gov/data/results.txt
 * Results available
+* Updated on November 19, 2018
 
 ### Arizona (AZ)
 * Unofficial Results URL: https://results.arizona.vote/#/featured/4/0
