@@ -33,6 +33,7 @@ Results posted in MEDSL/2018-elections/raw-results
 ### Colorado (CO)
  * Unofficial Results URL: https://results.enr.clarityelections.com/CO/91808/Web02-state.216038/#/
  * county-level results
+ * Updated on November 16, 2018, uploaded on November 19, 2018 
  
 ### Connecticut (CT)
 * Unofficial Results URL: https://ctemspublic.pcctg.net 
