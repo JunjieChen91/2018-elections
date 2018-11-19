@@ -222,6 +222,8 @@ Unofficial Results URL: https://www.ri.gov/election/results/2018/general_electio
 ### West Virginia (WV)
 * Unofficial Results URL: http://results.enr.clarityelections.com/WV/92360/Web02-state.216038/#/
 * County-level results
+* Updated on November 19, 2018
+
 ### Wisconsin (WI)
 * Unofficial Results URL:  Currently unavailable (11/6/18 11:07 PM)
 
