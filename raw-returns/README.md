@@ -17,7 +17,7 @@ Results posted in MEDSL/2018-elections/raw-results
 * Unofficial Results URL: https://results.arizona.vote/#/featured/4/0
 * county-level
 * Scraper available 
-* Updated on November 17, 2018
+* Uploaded on November 19, 2018, data updated on November 17, 2018
 
 ### Arkansas (AR)
 * Unofficial Results URL: http://results.enr.clarityelections.com/AR/92174/Web02-state.216038/
@@ -44,6 +44,7 @@ Results posted in MEDSL/2018-elections/raw-results
 * Unofficial Results URL: https://elections.delaware.gov/results/html/unofresl.shtml
 * election district level results
 * other breakdowns available at URL 
+* Data updated and uploaded on November 19, 2018
 
 ### District of Columbia (DC)
 * Unofficial Results URL: https://electionresults.dcboe.org/election_results/2018-General-Election
