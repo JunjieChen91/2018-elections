@@ -1,0 +1,115 @@
+Race,County,DEM,REP,LIB,TOTAL
+Senate,Beaverhead,"1,876","2,866",155,"4,897"
+Senate,Big Horn,"3,027","1,558",91,"4,676"
+Senate,Blaine,"1,961",982,76,"3,019"
+Senate,Broadwater,"1,071","2,086",104,"3,261"
+Senate,Carbon,"2,680","3,209",178,"6,067"
+Senate,Carter,128,602,22,752
+Senate,Cascade,"17,435","15,566","1,008","34,009"
+Senate,Chouteau,"1,275","1,312",70,"2,657"
+Senate,Custer,"1,942","2,762",179,"4,883"
+Senate,Daniels,281,631,29,941
+Senate,Dawson,"1,233","2,700",140,"4,073"
+Senate,Deer Lodge,"2,892","1,208",136,"4,236"
+Senate,Fallon,281,951,57,"1,289"
+Senate,Fergus,"1,964","3,640",189,"5,793"
+Senate,Flathead,"19,652","26,759","1,349","47,760"
+Senate,Gallatin,"33,251","21,248","1,434","55,933"
+Senate,Garfield,80,571,30,681
+Senate,Glacier,"3,754","1,153",89,"4,996"
+Senate,Golden Valley,130,303,21,454
+Senate,Granite,695,"1,046",52,"1,793"
+Senate,Hill,"3,729","2,434",227,"6,390"
+Senate,Jefferson,"2,954","3,653",226,"6,833"
+Senate,Judith Basin,388,752,51,"1,191"
+Senate,Lake,"6,916","6,491",365,"13,772"
+Senate,Lewis & Clark,"20,506","14,106",927,"35,539"
+Senate,Liberty,365,586,30,981
+Senate,Lincoln,"2,902","6,137",298,"9,337"
+Senate,Madison,"1,890","2,898",171,"4,959"
+Senate,McCone,227,773,29,"1,029"
+Senate,Meagher,319,629,28,976
+Senate,Mineral,785,"1,181",92,"2,058"
+Senate,Missoula,"41,684","18,629","1,332","61,645"
+Senate,Musselshell,573,"1,743",116,"2,432"
+Senate,Park,"5,114","4,357",253,"9,724"
+Senate,Petroleum,58,248,6,312
+Senate,Phillips,577,"1,426",79,"2,082"
+Senate,Pondera,"1,176","1,413",96,"2,685"
+Senate,Powder River,203,748,22,973
+Senate,Powell,"1,026","1,641",93,"2,760"
+Senate,Prairie,177,450,26,653
+Senate,Ravalli,"9,156","13,622",623,"23,401"
+Senate,Richland,"1,136","3,017",179,"4,332"
+Senate,Roosevelt,"2,013","1,346",88,"3,447"
+Senate,Rosebud,"1,511","1,765",91,"3,367"
+Senate,Sanders,"2,071","3,856",227,"6,154"
+Senate,Sheridan,712,"1,017",83,"1,812"
+Senate,Silver Bow,"11,672","4,246",394,"16,312"
+Senate,Stillwater,"1,501","3,206",157,"4,864"
+Senate,Sweet Grass,652,"1,372",74,"2,098"
+Senate,Teton,"1,290","1,784",83,"3,157"
+Senate,Toole,626,"1,208",69,"1,903"
+Senate,Treasure,129,279,6,414
+Senate,Valley,"1,545","2,137",200,"3,882"
+Senate,Wheatland,315,586,32,933
+Senate,Wibaux,140,390,12,542
+Senate,Yellowstone,"32,225","34,682","2,351","69,258"
+Senate,TOTALS,"253,871","235,961","14,545","504,377"
+MT-AL,Beaverhead,"1,681","3,113",122,"4,916"
+MT-AL,Big Horn,"2,865","1,705",106,"4,676"
+MT-AL,Blaine,"1,742","1,173",87,"3,002"
+MT-AL,Broadwater,897,"2,249",105,"3,251"
+MT-AL,Carbon,"2,442","3,450",184,"6,076"
+MT-AL,Carter,100,636,12,748
+MT-AL,Cascade,"15,826","17,219",925,"33,970"
+MT-AL,Chouteau,"1,071","1,515",66,"2,652"
+MT-AL,Custer,"1,638","3,085",168,"4,891"
+MT-AL,Daniels,240,684,20,944
+MT-AL,Dawson,"1,128","2,811",125,"4,064"
+MT-AL,Deer Lodge,"2,693","1,379",155,"4,227"
+MT-AL,Fallon,226,"1,025",24,"1,275"
+MT-AL,Fergus,"1,752","3,915",139,"5,806"
+MT-AL,Flathead,"18,051","28,450","1,277","47,778"
+MT-AL,Gallatin,"31,297","23,157","1,523","55,977"
+MT-AL,Garfield,54,606,20,680
+MT-AL,Glacier,"3,564","1,307",111,"4,982"
+MT-AL,Golden Valley,108,323,22,453
+MT-AL,Granite,609,"1,133",62,"1,804"
+MT-AL,Hill,"3,315","2,834",231,"6,380"
+MT-AL,Jefferson,"2,621","4,016",200,"6,837"
+MT-AL,Judith Basin,311,849,34,"1,194"
+MT-AL,Lake,"6,416","7,013",355,"13,784"
+MT-AL,Lewis & Clark,"18,798","15,686","1,046","35,530"
+MT-AL,Liberty,299,653,24,976
+MT-AL,Lincoln,"2,628","6,453",245,"9,326"
+MT-AL,Madison,"1,667","3,159",145,"4,971"
+MT-AL,McCone,194,813,21,"1,028"
+MT-AL,Meagher,264,680,38,982
+MT-AL,Mineral,702,"1,286",69,"2,057"
+MT-AL,Missoula,"39,413","20,565","1,621","61,599"
+MT-AL,Musselshell,502,"1,833",92,"2,427"
+MT-AL,Park,"4,741","4,711",277,"9,729"
+MT-AL,Petroleum,46,259,8,313
+MT-AL,Phillips,451,"1,588",52,"2,091"
+MT-AL,Pondera,"1,004","1,607",84,"2,695"
+MT-AL,Powder River,172,785,18,975
+MT-AL,Powell,859,"1,806",92,"2,757"
+MT-AL,Prairie,149,484,22,655
+MT-AL,Ravalli,"8,289","14,495",598,"23,382"
+MT-AL,Richland,962,"3,260",120,"4,342"
+MT-AL,Roosevelt,"1,865","1,476",95,"3,436"
+MT-AL,Rosebud,"1,349","1,918",90,"3,357"
+MT-AL,Sanders,"1,853","4,077",210,"6,140"
+MT-AL,Sheridan,661,"1,087",52,"1,800"
+MT-AL,Silver Bow,"10,822","5,032",442,"16,296"
+MT-AL,Stillwater,"1,350","3,373",157,"4,880"
+MT-AL,Sweet Grass,580,"1,475",61,"2,116"
+MT-AL,Teton,"1,117","1,959",76,"3,152"
+MT-AL,Toole,542,"1,310",56,"1,908"
+MT-AL,Treasure,95,308,12,415
+MT-AL,Valley,"1,256","2,442",178,"3,876"
+MT-AL,Wheatland,277,631,22,930
+MT-AL,Wibaux,114,402,18,534
+MT-AL,Yellowstone,"29,612","37,399","2,361","69,372"
+MT-AL,TOTALS,"233,280","256,659","14,475","504,414"
