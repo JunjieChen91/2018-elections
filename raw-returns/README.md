@@ -82,6 +82,7 @@ Results posted in MEDSL/2018-elections/raw-results, updated on November 17-19, 2
 ### 16. Iowa (IA)
 * Unofficial Results URL: https://results.enr.clarityelections.com/IA/91323/Web02-state.216038/
 * County-level results
+* Updated on November 19, 2018
 
 ### 17. Kansas (KS) 
 * Unofficial Results URL: https://ent.sos.ks.gov/kssos_ent.html
