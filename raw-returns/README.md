@@ -130,6 +130,7 @@ Unofficial Results URL:  Currently unavailable (11/6/18 10:26 PM EST)
 * Unofficial Results URL: http://mtelectionresults.gov/ResultsExport.aspx
 * County-level results. 
 * other breakdowns available at URL.
+* Updated on November 20, 2018.
 
 ### 28. Nebraska (NE)
 Unofficial Results URL: https://electionresults.sos.ne.gov/
