@@ -168,6 +168,7 @@ Unofficial Results URL: https://electionresults.sos.ne.gov/
 ### 36. Ohio (OH)
 * Unofficial Results URL: https://vote.ohio.gov/
 * County-level results
+* Updated on November 19, 2018
 
 ### 37. Oklahoma (OK)
 * Unofficial Results URL: https://results.okelections.us/OKER/?elecDate=20181106
