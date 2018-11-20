@@ -1,234 +1,234 @@
 ## Election Night Scrapers 11/6/2018
 
-Results posted in MEDSL/2018-elections/raw-results
+Results posted in MEDSL/2018-elections/raw-results, updated on November 17-19, 2018, by Junjie Chen.
 
-### Alabama (AL)
+### 1. Alabama (AL)
 * results unavailable
 * Updated on November 18, 2018
 * Alabama removed results by 9:10 AM EST 11/7/2018
 * Unofficial Results URL: http://www2.alabamavotes.gov/electionnight/statewideresultsbycontest.aspx?ecode=1001030
 
-### Alaska (AK)
+### 2. Alaska (AK)
 * Unofficial Results URL:  http://results.elections.alaska.gov/data/results.txt
 * Results available
 * Updated on November 19, 2018
 
-### Arizona (AZ)
+### 3. Arizona (AZ)
 * Unofficial Results URL: https://results.arizona.vote/#/featured/4/0
 * county-level
 * Scraper available 
 * Uploaded on November 19, 2018, data updated on November 17, 2018
 
-### Arkansas (AR)
+### 4. Arkansas (AR)
 * Unofficial Results URL: http://results.enr.clarityelections.com/AR/92174/Web02-state.216038/
 * county-level
 * Updated on November 19, 2018
 
-### California (CA)
+### 5. California (CA)
 * Unofficial Results URL: https://vote.sos.ca.gov/
 * County-level
 * scraper available
 * Scraper currently in Python Notebook form. 
 
-### Colorado (CO)
+### 6. Colorado (CO)
  * Unofficial Results URL: https://results.enr.clarityelections.com/CO/91808/Web02-state.216038/#/
  * county-level results
  * Updated on November 16, 2018, uploaded on November 19, 2018 
  
-### Connecticut (CT)
+### 7. Connecticut (CT)
 * Unofficial Results URL: https://ctemspublic.pcctg.net 
 * Results to come. 
 * Scraper to come. 
 
-### Delaware (DE)
+### 8. Delaware (DE)
 * Unofficial Results URL: https://elections.delaware.gov/results/html/unofresl.shtml
 * election district level results
 * other breakdowns available at URL 
 * Data updated and uploaded on November 19, 2018
 
-### District of Columbia (DC)
+### 9. District of Columbia (DC)
 * Unofficial Results URL: https://electionresults.dcboe.org/election_results/2018-General-Election
 * Ward-level results
 
-### Florida (FL)
+### 10. Florida (FL)
 * Unofficial Results URL: https://floridaelectionwatch.gov/  
 * County-level results
 * Updated on November 19, 2018 by JChen.
 
-### Georgia (GA)
+### 11. Georgia (GA)
 * Official Results URL: https://results.enr.clarityelections.com/GA/91639/Web02-state.216038/
 * County-level results 
 * Updated on November 18, 2018
 
-### Hawaii (HI)
+### 12. Hawaii (HI)
 * Final report of result summaries URL: https://elections.hawaii.gov/election-results/
 * County-level results
 * Latest pdated November 15, 2018 5:30 PM
 * Uploaded on November 19, 2018
 
-### Idaho (ID)
+### 13. Idaho (ID)
 * Unofficial Results URL: https://sos.idaho.gov/elect/results/2018/General/ENR/xml_access.html
 * County-level results 
 * XML results
 
-### Illinois (IL)
+### 14. Illinois (IL)
 * Unofficial Results URL:  Currently unavailable. 
 
 
-### Indiana (IN) 
+### 15. Indiana (IN) 
 * Unofficial Results URL: https://indianaenr.blob.core.usgovcloudapi.net/site/index.html
 * Precinct-level 
 
-### Iowa (IA)
+### 16. Iowa (IA)
 * Unofficial Results URL: https://results.enr.clarityelections.com/IA/91323/Web02-state.216038/
 * County-level results
 
-### Kansas (KS) 
+### 17. Kansas (KS) 
 * Unofficial Results URL: https://ent.sos.ks.gov/kssos_ent.html
 * Results to come. 
 * Scraper to come. 
 
-### Kentucky (KY)
+### 18. Kentucky (KY)
 * Unofficial Results URL: http://results.enr.clarityelections.com/KY/91996/216579/Web01/en/summary.html
 * County-level results.
 
-### Louisiana (LA)
+### 19. Louisiana (LA)
 * Unofficial Results URL: https://voterportal.sos.la.gov/static/2018-11-06
 * Results to come. 
 * Scraper to come. 
 
-### Maine (ME)
+### 20. Maine (ME)
 * Results unavailable. (11/06/18 11:30 PM)
 
-### Maryland (MD)
+### 21. Maryland (MD)
 * Unofficial Results URL: https://results.elections.maryland.gov/elections/2018/results/General/index.html
 * Results to come. 
 * Scraper to come. 
 
-### Massachusetts (MA)
+### 22. Massachusetts (MA)
 Unofficial Results URL:  Currently unavailable (11/6/18 10:26 PM EST)
 
-### Michigan (MI)
+### 23. Michigan (MI)
 * Unofficial Results URL: https://mielections.us/election/results/2018GEN_CENR.html
 * county-level results 
 
-### Minnesota (MN)
+### 24. Minnesota (MN)
 * Unofficial Results URL: https://electionresults.sos.state.mn.us/Select/Download/115
 * precinct-level results 
 * other breakdowns available at URL 
 
-### Mississippi (MS)
+### 25. Mississippi (MS)
 * Unofficial Results URL: Currently unavailable (11/6/18 10:32 PM EST)
 
-### Missouri (MO)
+### 26. Missouri (MO)
 * Unofficial Results URL: https://enr.sos.mo.gov/
 * Results to come. 
 * Scraper to come. 
 
-### Montana (MT)
+### 27. Montana (MT)
 * Unofficial Results URL: http://mtelectionresults.gov/ResultsExport.aspx
 * County-level results. 
 * other breakdowns available at URL.
 
-### Nebraska (NE)
+### 28. Nebraska (NE)
 Unofficial Results URL: https://electionresults.sos.ne.gov/
 * Results to come. 
 * Scraper to come. 
 
-### Nevada (NV)
+### 29. Nevada (NV)
 * Unofficial Results URL: http://www.silverstateelection.com/ 
 * county-level results
 * scraper available. 
 
-### New Hampshire (NH)
+### 30. New Hampshire (NH)
 * Unofficial Results URL: Currently unavailable (11/6/18 10:41 PM EST)
 
-### New Jersey (NJ)
+### 31. New Jersey (NJ)
 * Unofficial Results URL: Currently unavailable (11/6/18 10:42 PM EST) 
 
-### New Mexico (NM)
+### 32. New Mexico (NM)
 * Unofficial Results URL: http://electionresults.sos.state.nm.us/
 * County-level results
 * Scraper available in notebook form
 
-### New York (NY)
+### 33. New York (NY)
 * Unofficial Results URL: https://nyenr.elections.ny.gov/
 * Results to come.
 * Scrapers to come 
 
-### North Carolina (NC)
+### 34. North Carolina (NC)
 * Unofficial Results URL:  https://er.ncsbe.gov/?election_dt=11/06/2018
 * Precinct-level
 * Other breakdowns available
 
-### North Dakota (ND)
+### 35. North Dakota (ND)
 * Unofficial Results URL: https://results.sos.nd.gov/Default.aspx?map=Cty
 * Results to come. 
-### Ohio (OH)
+### 36. Ohio (OH)
 * Unofficial Results URL: https://vote.ohio.gov/
 * County-level results
 
-### Oklahoma (OK)
+### 37. Oklahoma (OK)
 * Unofficial Results URL: https://results.okelections.us/OKER/?elecDate=20181106
 * Results to come. 
-### Oregon (OR)
+### 38. Oregon (OR)
 * Unofficial Results URL: http://results.oregonvotes.gov/
 * Results to come
 
-### Pennsylvania (PA)
+### 39. Pennsylvania (PA)
 * Unofficial Results URL: https://www.electionreturns.pa.gov/
 * County-level results
 * Other breakdowns available. 
 * Updated on November 19, 2018.
 
-### Rhode Island (RI)
+### 40. Rhode Island (RI)
 Unofficial Results URL: https://www.ri.gov/election/results/2018/general_election/
 * Results to come.
 
-### South Carolina (SC)
+### 41. South Carolina (SC)
 * Unofficial Results URL: https://www.enr-scvotes.org/SC/92124/Web02-state.214804/#/
 * county-level
 
-### South Dakota (SD)
+### 42. South Dakota (SD)
 * Unofficial Results URL: http://electionresults.sd.gov/
 * county-level
 
-### Tennessee (TN)
+### 43. Tennessee (TN)
 * Unofficial Results URL: https://elections.tn.gov/results.php
 * Results to come.
 * Scraper to come.
 
-### Texas (TX)
+### 44. Texas (TX)
 * Unofficial Results URL: https://enrpages.sos.state.tx.us/public/nov06_331.htm
 * Results to come
 * Scraper to come. 
 
-### Utah (UT)
+### 45. Utah (UT)
 * Unofficial Results URL: https://electionresults.utah.gov/elections/
 * Results to come.
 * Scraper to come. 
 
-### Vermont (VT)
+### 46. Vermont (VT)
 * Unofficial Results URL: https://vtelectionresults.sec.state.vt.us/Index.html#/
 * Results to come
 * Scraper to come. 
 
-### Virginia (VA)
+### 47. Virginia (VA)
 * Unofficial Results URL: https://results.elections.virginia.gov/vaelections/2018%20November%20General/Site/results.csv
 * Results to come. 
 
-### Washington (WA)
+### 48. Washington (WA)
 * Unofficial Results URL: https://results.vote.wa.gov/results/current/Export.html
 * county-level results
 
-### West Virginia (WV)
+### 49. West Virginia (WV)
 * Unofficial Results URL: http://results.enr.clarityelections.com/WV/92360/Web02-state.216038/#/
 * County-level results
 * Updated on November 19, 2018
 
-### Wisconsin (WI)
+### 50. Wisconsin (WI)
 * Unofficial Results URL:  Currently unavailable (11/6/18 11:07 PM)
 
-### Wyoming (WY)
+### 51. Wyoming (WY)
 * Unofficial Results URL: http://soswy.state.wy.us/Elections/Docs/2018/2018GeneralResults.aspx
 * Results to come.
